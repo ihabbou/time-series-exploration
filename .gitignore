@@ -1,3 +1,10 @@
+.vscode
+# ML
+*.keras
+*.h5
+*_logs
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
